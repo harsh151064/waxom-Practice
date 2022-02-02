@@ -734,7 +734,7 @@ h10{
 
     .card{
         height: 150px;
-        background-size:contain;
+        background-size:100% 70%;
     }
     .videop{
         height: 400px;
